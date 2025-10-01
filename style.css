@@ -34,7 +34,7 @@ header nav a:hover {
 
 /* Hero Section */
 .hero {
-  background: url("images/background.jpg") no-repeat center center/cover;
+  background: url("background.jpg") no-repeat center center/cover;
   color: #ffffff;
   text-align: center;
   padding: 5rem 1rem;
@@ -175,7 +175,7 @@ header nav a:hover {
 
 /* About */
 .about-hero {
-  background: url("images/background.jpg") no-repeat center center/cover;
+  background: url("background.jpg") no-repeat center center/cover;
   color: #fff;
   text-align: center;
   padding: 4rem 1rem;
@@ -305,4 +305,5 @@ footer {
   height: 40px; /* Adjust size as needed */
   width: auto;
 }
+
 
